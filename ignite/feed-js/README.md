@@ -10,8 +10,8 @@ Currently, two official plugins are available:
 
 
 [ X ] #F08 
-[  ] #F09 
-[  ] #F10 
+[ X ] #F09 
+[ X ] #F10 
 [  ] #F11 
 [  ] #F12 
 [  ] #F13 
